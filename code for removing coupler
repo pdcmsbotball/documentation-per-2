@@ -10,7 +10,7 @@ int main()
     mav(3,1500);
     msleep(780);
     
-    //forward
+    //move forward
     mav(2,1500);
     mav(3,1500);
     msleep(2600);
